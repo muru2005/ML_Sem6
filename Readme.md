@@ -68,7 +68,7 @@ If this repository includes a `requirements.txt`, install from it. If not, creat
 1. Clone the repository
    ```
    git clone https://github.com/muru2005/ML_Sem6.git
-   cd Machine_LearningLabSem6
+   cd ML_Sem6
    ```
 
 2. Create and activate a virtual environment (venv example)
